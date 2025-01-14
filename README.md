@@ -87,12 +87,6 @@ The AI-Powered Business Name Generator is an innovative tool developed by Tradem
 
 🎯 Mitigation strategies include continuous AI training, phased integration, and robust security protocols.
 
----
-
-## 🤝 Contributing
-We welcome contributions to improve and expand this project! Please follow the guidelines outlined in `CONTRIBUTING.md`.
-
----
 
 
 
