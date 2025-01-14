@@ -1,7 +1,7 @@
 # 🌟 AI-Powered Business Name Generator for Trademarkia
 
 ## ✨ Overview
-The AI-Powered Business Name Generator is an innovative tool developed by Trademarkia to simplify and enhance the process of creating creative and legally viable business names. By integrating advanced artificial intelligence with Trademarkia's legal expertise and extensive trademark database, this tool aims to revolutionize brand creation for entrepreneurs, startups, and small business owners.
+The AI-Powered Business Name Generator is an innovative tool developed by XYZ to simplify and enhance the process of creating creative and legally viable business names. By integrating advanced artificial intelligence with Trademarkia's legal expertise and extensive trademark database, this tool aims to revolutionize brand creation for entrepreneurs, startups, and small business owners.
 
 ---
 
